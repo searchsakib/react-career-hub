@@ -56,13 +56,13 @@ const Header = () => {
             </li>
           </ul>
         </div>
-        <a className="btn btn-ghost normal-case text-xl">daisyUI</a>
+        <a className="btn btn-ghost normal-case text-xl">CareerHub</a>
       </div>
       <div className="navbar-center hidden lg:flex">
         <ul className="menu menu-horizontal px-1 font-bold">{Link}</ul>
       </div>
       <div className="navbar-end">
-        <a className="btn">Button</a>
+        <a className="btn">Apply Now</a>
       </div>
     </div>
   );
